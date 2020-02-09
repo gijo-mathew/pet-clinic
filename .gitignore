@@ -20,8 +20,8 @@
 *.rar
 
 
-.idea/*
-target/*
+.idea/
+target/
 output/
 output
 .logs/
