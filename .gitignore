@@ -29,3 +29,5 @@ output
 logs/*
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+pet-clinic-data/pet-clinic-data.iml
+pet-clinic-web/pet-clinic-web.iml
