@@ -25,6 +25,7 @@ target/
 output/
 output
 flow/
+flow
 .logs/
 .logs
 logs/*
