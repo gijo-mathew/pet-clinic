@@ -67,6 +67,7 @@
 						<hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
 						<versionTagPrefix>${project.artifactId}-</versionTagPrefix>
 					</flowInitContext>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 					<username>${git.user}</username>
 					<password>${git.password}</password>
 				</configuration>
